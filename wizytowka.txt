@@ -1,0 +1,96 @@
+0
+Agnieszka
+Wojciechowska
+Nuszkiewicza 3/11
+agnieszka.w.7.7@gmail.com
+665236987
+1
+Mateusz
+Mroz
+Nuszkiewicza 3/11
+mateusz.mroz10@gmail.com
+519412272
+2
+Ignacy 
+Paderewski
+Warszawa Nowy Swiat 15
+ignas.pader@gmail.com
+550145692
+3
+Franciszek
+Mroz
+Brusnik 75a
+franko.mroz@gmail.com
+547698523
+4
+Dorota
+Mroz
+Brusnik 75a
+dorotka.mroz@wp.pl
+665214365
+5
+Zdzislaw
+Zapotoczny
+Warszawa Kosciuszki 3/9
+zdzisiu.zdzisiu@gmail.com
+456258789
+6
+Jan
+Nowak
+Krakow Lepkowskiego 4/5
+janek_nowak@gmail.com
+514238564
+7
+Marta
+Liszka
+Bobowa Grunwaldzka 5
+marta.liszka45@wp.pl
+547689234
+8
+Adam
+Malysz
+Wisla Dluga 5/12
+adas.malys@interia.eu
+515412368
+9
+Robert
+Lewandowski
+Monahium
+lewy09@o2.com
+547682357
+10
+Elon
+Musk
+California California St 5/45
+elon.musk@yahoo.com
+2147483647
+11
+Filip
+Hajzer
+Warszawa Nowy Swiat 4/15
+filip.hajzer@gmail.com
+547698523
+12
+Jurek
+Lesniak
+Zielona Gora ul.Kosciuszki 5/7
+Jurek.jerzy@gmail.com
+48586265
+13
+Adam
+Rogalski
+Czestochowa ul.Szeroka 5/7
+adam-rogalski@wp.pl
+456987123
+14
+Jan
+Pospieszalski
+Warszawa
+szybkiJan@o2.pl
+514875325
+15
+J¢zef
+Kowalski
+Nowy Swiat 3a/34 00:012 Warszawa
+jozef_kowalski@gmail.com
+123456789

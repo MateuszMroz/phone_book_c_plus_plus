@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1475855962 source:c:\projekty c++\ksiazkaadresowa_listajedokierunkowa\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+	<string>
+	<conio.h>
+
+1476531460 source:e:\ksiazkaadresowa_listajedokierunkowa\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+	<string>
+	<conio.h>
+
+1476531460 source:c:\users\mateusz\desktop\ksiazkaadresowa_listajedokierunkowa\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+	<string>
+	<conio.h>
+
+1476627607 source:c:\projekty c++\ksiazkaadresowa_listajedokierunkowafinalversion\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+	<string>
+	<conio.h>
+
+1476631208 source:c:\users\mateusz\documents\c++\projekty c++\ksiazkaadresowa_listajedokierunkowafinalversion\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+	<string>
+	<conio.h>
+
